@@ -1,1 +1,1 @@
-In this proyect we learning how use git
+In this proyect we learning about git and how use it
